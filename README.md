@@ -2,14 +2,14 @@
 
 ### 👨‍💻 About Me:
 
-I am a 3D / VFX Artist from Germany but I also like coding! I am interested in Web Development but also like Graphics and System Level Programming.
+I am a 3D / VFX Artist from Germany but I also like coding! I am interested in Web Development, Graphics and System Level Programming.
 
 ### 💬 Languages
 - HTML, CSS & JavaScript
 - TypeScript
 - Go
-- C++
 - Rust
+- C++
 
 ### 🛠️ Frameworks and Tools
 - React / Next.js / Svelte / SvelteKit
