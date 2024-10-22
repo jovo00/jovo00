@@ -15,8 +15,8 @@ I am a 3D / VFX Artist from Germany but I also like coding! I am interested in W
 - React / Next.js / Svelte / SvelteKit
 - Sass / Tailwind CSS
 - Three.js / Babylon.js / WebGL / WebGPU
-- OpenGL / Vulkan
+- Vulkan / wgpu
 
 ### 💥 3D and Visual Effects
 - Blender / Houdini
-- Fusion / Nuke / After Effects
+- Fusion / Resolve / After Effects
